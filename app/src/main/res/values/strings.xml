@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Arias_Pablo_P3_UI</string>
+    <string name="frutas">Frutas</string>
+    <string name="enuncFrutas">Introduzca la fruta</string>
+    <string name="anadir">Añadir</string>
+    <string name="acabar">Acabar</string>
+</resources>

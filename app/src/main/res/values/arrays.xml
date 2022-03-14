@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="provincias_galicia">
+    <item>A Coruña</item>
+        <item>Lugo</item>
+        <item>Ourense</item>
+        <item>Pontevedra</item>
+    </string-array>
+    <string-array name="ciudades_coruna">
+        <item>A Coruña</item>
+        <item>Carballo</item>
+        <item>Ferrol</item>
+        <item>Santiago de Compostela</item>
+    </string-array>
+    <string-array name="ciudades_lugo">
+        <item>Lugo</item>
+        <item>Monforte de Lemos</item>
+        <item>Ribadeo</item>
+        <item>Viveiro</item>
+    </string-array>
+    <string-array name="ciudades_ourense">
+        <item>O Barco</item>
+        <item>Ourense</item>
+        <item>Ribadavia</item>
+        <item>Vilamartín de Valdeorras</item>
+    </string-array>
+    <string-array name="array_intents">array_intent
+        <item>Selecciona una acción</item>
+        <item>Llamar </item>
+        <item>Sms</item>
+        <item>Web</item>
+        <item>Localización</item>
+        <item>Alarma</item>
+        <item>Email</item>
+        <item>Cámara</item>
+    </string-array>
+</resources>
